@@ -209,6 +209,7 @@ ar71xx_setup_interfaces()
 	ap132|\
 	ap136|\
 	ap152|\
+	tl-wdr8500-v1|\
 	rb-750gl|\
 	rb-751g|\
 	rb-951g-2hnd|\
@@ -522,6 +523,7 @@ ar71xx_setup_interfaces()
 		;;
 	archer-c7-v4|\
 	archer-c7-v5|\
+	mc-mw4530r|\
 	tl-wdr4300|\
 	tl-wr880n-v1|\
 	tl-wr881n-v1|\
